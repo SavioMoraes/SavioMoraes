@@ -1,5 +1,5 @@
 <div align="center">
-  <h3>Olá, eu sou Sávio Moreira de Moraes, Desenvolvedor Full Stack, entusiasta de Tecnologia e amante da Programação. Tenho mais de dois anos de experiência em desenvolvimento web full stack, usando HTML, CSS, JavaScript, TypeScript, React, Node.JS, entre outras tecnologias e metodologias aplicadas.
+  <h4>Olá, eu sou Sávio Moreira de Moraes, Desenvolvedor Full Stack, entusiasta de Tecnologia e amante da Programação. Tenho mais de dois anos de experiência em desenvolvimento web full stack, usando HTML, CSS, JavaScript, TypeScript, React, Node.JS, entre outras tecnologias e metodologias aplicadas.
 
 Meu último trabalho foi como Desenvolvedor Full Stack na Aktion Now, onde eu atuava com manutenção e melhoria de softwares. 
 
@@ -12,7 +12,7 @@ Além disso, tenho experiência como Analista de Suporte Pleno na Indra, prestan
 Atualmente, estou em busca de uma vaga de Engenheiro de Software, Desenvolvedor Full Stack, Front-end ou Back-end e para continuar me desenvolvendo, estou fazendo cursos, bootcamps, acelerações e resolvendo exercícios de lógica!
 
 email: smmsavio@hotmail.com
-WhatsApp: +55 (47) 99932-3225</h3>
+WhatsApp: +55 (47) 99932-3225</h4>
   <br>
   <h4>Acesse <a href="https://saviomoraes.github.io/" text-decoration="none" target="_blank">aqui</a> o meu Portfólio</h4>
   <br>
