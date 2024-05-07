@@ -9,10 +9,11 @@ Minhas Stacks: HTML | CSS | JavaScript | TypeScrip | Python | NodeJS | Express |
 
 Além disso, tenho experiência como Analista de Suporte Pleno na Indra, prestando serviços para a Petrobras, e como freelancer, criando artigos, posts e artes para sites e blogs. Meu objetivo é continuar aprimorando minhas habilidades como desenvolvedor, contribuindo para o sucesso dos meus clientes e da minha empresa.
 
-Atualmente, estou em busca de uma vaga de Engenheiro de Software, Desenvolvedor Full Stack, Front-end ou Back-end e para continuar me desenvolvendo, estou fazendo cursos, bootcamps, acelerações e resolvendo exercícios de lógica!
+Atualmente, estou em busca de uma vaga de Engenheiro de Software, Desenvolvedor Full Stack, Front-end ou Back-end e para continuar me desenvolvendo, estou fazendo cursos, bootcamps, acelerações e resolvendo exercícios de lógica!</h4>
 
-email: smmsavio@hotmail.com
-WhatsApp: +55 (47) 99932-3225</h4>
+<h4>email: smmsavio@hotmail.com</h4>
+<br>
+<h4></h4>WhatsApp: +55 (47) 99932-3225</h4>
   <br>
   <h4>Acesse <a href="https://saviomoraes.github.io/" text-decoration="none" target="_blank">aqui</a> o meu Portfólio</h4>
   <br>
