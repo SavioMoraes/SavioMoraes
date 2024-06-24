@@ -14,13 +14,13 @@ Atualmente, estou em busca de uma vaga de Engenheiro de Software, Desenvolvedor 
 <h4>email: smmsavio@hotmail.com</h4>
 <h4></h4>WhatsApp: +55 (47) 99932-3225</h4>
   <br>
-  <h4>Acesse <a href="https://saviomoraes.github.io/" text-decoration="none" target="_blank">aqui</a> o meu Portfólio</h4>
+  <h4>Acesse <a href="https://saviomoraes.github.io/portfolio-savio-moraes/" text-decoration="none" target="_blank">aqui</a> o meu Portfólio</h4>
   <br>
 
   <div align="center">
   <a href="https://github.com/SavioMoraes">
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SavioMoraes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
-<!--   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SavioMoraes&layout=compact&langs_count=7&theme=dark"/> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SavioMoraes&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/> -->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SavioMoraes&layout=compact&langs_count=7&theme=dark"/>
 </div>
   <div style="display: inline_block"><br>
     <img align="center" alt="logo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
