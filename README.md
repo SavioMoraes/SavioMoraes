@@ -1,4 +1,3 @@
-<img src: "https://saviomoraes.github.io/portfolio-savio-moraes/(./your-header-image-name.png)" />
 <div align="center">
   <h4>Olá, eu sou Sávio Moreira de Moraes, Desenvolvedor Full Stack, entusiasta de Tecnologia e amante da Programação. Tenho mais de dois anos de experiência em desenvolvimento web full stack, usando HTML, CSS, JavaScript, TypeScript, React, Node.JS, entre outras tecnologias e metodologias aplicadas.
 
