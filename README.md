@@ -10,12 +10,21 @@ Atualmente, estou em busca de uma vaga de Engenheiro de Software, Desenvolvedor 
   <br>
   <h4>Acesse <a href="https://saviomoraes.github.io/portfolio-savio-moraes/" text-decoration="none" target="_blank">aqui</a> o meu Portfólio</h4>
   <br>
+  <!--
   <div align="center">
-  <a href="https://github.com/SavioMoraes">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SavioMoraes&theme=dracula&show_icons=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=SavioMoraes"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SavioMoraes&layout=compact&theme=dracula"/>
-</div>
+    <a href="https://github.com/SavioMoraes">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SavioMoraes&theme=dracula&show_icons=true"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=SavioMoraes"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SavioMoraes&layout=compact&theme=dracula"/>
+  </div>
+  -->
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=saviomoraes&label=Profile%20views&color=0e75b6&style=flat" alt="saviomoraes" /> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saviomoraes" alt="saviomoraes" /></a> </p>
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://dev.to/https://saviomoraes.github.io/portfolio-savio-moraes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://saviomoraes.github.io/portfolio-savio-moraes/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/saviomoreirademoraes/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saviomoreirademoraes/" height="30" width="40" /></a>
+</p>
   <div style="display: inline_block"><br>
     <img align="center" alt="logo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="logo-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
