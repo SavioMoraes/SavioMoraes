@@ -8,7 +8,7 @@ Atualmente, estou em busca de uma vaga de Engenheiro de Software, Desenvolvedor 
 <h4>email: smmsavio@hotmail.com</h4>
 <h4></h4>WhatsApp: +55 (47) 99932-3225</h4>
   <br>
-  <h4>Acesse <a href="https://saviomoraes.github.io/portfolio-savio-moraes/" text-decoration="none" target="_blank" rel="noopener noreferrer">aqui</a> o meu Portfólio</h4>
+  <h4>Acesse [aqui]("https://saviomoraes.github.io/portfolio-savio-moraes/){text-decoration="none" target="_blank" rel="noopener noreferrer} o meu Portfólio</h4>
   <br>
   <!--
   <div align="center">
