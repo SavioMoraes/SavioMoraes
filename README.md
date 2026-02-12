@@ -8,7 +8,7 @@ Atualmente, estou em busca de uma vaga de Engenheiro de Software, Desenvolvedor 
 <h4>email: smmsavio@hotmail.com</h4>
 <h4></h4>WhatsApp: +55 (47) 99932-3225</h4>
   <br>
-  <h4>Acesse <a href="https://saviomoraes.github.io/portfolio-savio-moraes/" text-decoration="none" rel="noopener noreferrer" target="_blank">aqui</a> o meu Portfólio</h4>
+  <h4>Acesse <a href="https://saviomoraes.github.io/portfolio-savio-moraes/" text-decoration="none" target="_blank" rel="noopener noreferrer">aqui</a> o meu Portfólio</h4>
   <br>
   <!--
   <div align="center">
@@ -21,7 +21,7 @@ Atualmente, estou em busca de uma vaga de Engenheiro de Software, Desenvolvedor 
   <div align="center">
     <h3 align="left">Connect with me:</h3>
     <p align="left">
-    <a href="https://www.linkedin.com/in/saviomoreirademoraes/" rel="noopener noreferrer" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saviomoreirademoraes/" height="30" width="40" /></a>
+    <a href="https://www.linkedin.com/in/saviomoreirademoraes/" target="_blank" rel="noopener noreferrer"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/saviomoreirademoraes/" height="30" width="40" /></a>
     </p>
   </div>
   <div style="display: inline_block"><br>
